@@ -1,7 +1,9 @@
 Hi there,
-I am using Github for very first time.
+I am using Github for the very first time.
 I am writing a simple javascript code here-
 let a=5;
 let b=8;
 let c=a+b;
 console.log(c);
+let d=a*b;
+console.log(d);
